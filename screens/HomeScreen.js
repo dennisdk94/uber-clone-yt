@@ -42,7 +42,7 @@ const HomeScreen = () => {
               })
             );
 
-            dispatch(setDestination(null));
+            dispatch(setDestination("asiajsiasj"));
           }}
           fetchDetails={true}
           minLength={2}
